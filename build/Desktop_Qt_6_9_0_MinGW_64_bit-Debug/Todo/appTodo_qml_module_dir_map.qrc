@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Todo">F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Todo</file>
+
+  </qresource>
+</RCC>

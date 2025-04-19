@@ -1,0 +1,115 @@
+# ninja log v6
+47	90	7667660957522910	.qt/appTodo_qml.txt	f5d3921be6afd7f8
+56	246	7667660959086088	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+242	348	7667660426600190	.rcc/qmlcache/appTodo_Task_item_qml.cpp.aotstats	842b2a8a0aec0d0f
+253	288	7667660959519838	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+226	389	7667652125438558	appTodo_autogen/timestamp	dd6e0152dbc476d1
+47	90	7667660957522910	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_qml.txt	f5d3921be6afd7f8
+653	6211	7667652129710304	CMakeFiles/appTodo.dir/appTodo_autogen/mocs_compilation.cpp.obj	4032c44441478d79
+67	80	7667651429687766	clean	577b940aee94fbd7
+41	84	7667651600232936	.qt/appTodo_res.txt	d0e2530701e96132
+41	84	7667651600232936	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_res.txt	d0e2530701e96132
+359	425	7667660960295731	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp.obj	94f3cfee601e4e96
+56	246	7667660959086088	.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+226	389	7667652125438558	appTodo_autogen/mocs_compilation.cpp	dd6e0152dbc476d1
+670	6557	7667652129791042	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_qmlcache_loader.cpp.obj	73cfa533df93bcbc
+226	389	7667652125438558	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTodo_autogen/timestamp	dd6e0152dbc476d1
+226	389	7667652125438558	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTodo_autogen/mocs_compilation.cpp	dd6e0152dbc476d1
+242	348	7667660426600190	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_item_qml.cpp.aotstats	842b2a8a0aec0d0f
+682	6609	7667652129947254	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Dialogue_qml.cpp.obj	c05c0646e2bc6716
+988	1039	7667651609684938	.qt/rcc/qrc_qmake_Todo.cpp	d4edcd69cd376d8
+988	1039	7667651609684938	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Todo.cpp	d4edcd69cd376d8
+390	421	7667652127265294	meta_types/appTodo_json_file_list.txt	9d29690a8f12798c
+390	421	7667652127265294	meta_types/appTodo_json_file_list.txt.timestamp	9d29690a8f12798c
+390	421	7667652127265294	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTodo_json_file_list.txt	9d29690a8f12798c
+390	421	7667652127265294	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTodo_json_file_list.txt.timestamp	9d29690a8f12798c
+472	652	7667652129494979	.rcc/qmlcache/appTodo_Main_qml.cpp.aotstats	e1383a777fdb6ccb
+246	356	7667660960143779	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+397	456	7667652127657106	.rcc/qmlcache/appTodo_qmlcache_loader.cpp	d0e6d8198f8ea242
+246	356	7667660960143779	.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+348	2516	7667660426711371	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_item_qml.cpp.obj	d7de607965c951c4
+397	456	7667652127657106	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_qmlcache_loader.cpp	d0e6d8198f8ea242
+253	288	7667660959519838	.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+659	5673	7667652129770148	CMakeFiles/appTodo.dir/database.cpp.obj	d863463b54ad0e8d
+421	472	7667652127396153	meta_types/qt6apptodo_debug_metatypes.json.gen	1f6e976b4214ed70
+662	5608	7667652129791042	CMakeFiles/appTodo.dir/apptodo_qmltyperegistrations.cpp.obj	472d5b09b58c9dd6
+421	472	7667652127396153	meta_types/qt6apptodo_debug_metatypes.json	1f6e976b4214ed70
+1082	1188	7667651610859572	Todo/appTodo.qmltypes	d157d45c3cab0d11
+421	472	7667652127396153	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptodo_debug_metatypes.json.gen	1f6e976b4214ed70
+421	472	7667652127396153	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptodo_debug_metatypes.json	1f6e976b4214ed70
+1082	1188	7667651610859572	apptodo_qmltyperegistrations.cpp	d157d45c3cab0d11
+1082	1188	7667651610859572	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptodo_qmltyperegistrations.cpp	d157d45c3cab0d11
+472	652	7667652129494979	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Main_qml.cpp.aotstats	e1383a777fdb6ccb
+1082	1188	7667651610859572	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Todo/appTodo.qmltypes	d157d45c3cab0d11
+1223	1383	7667651613107340	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_ex_qml.cpp.aotstats	7c11d63c4e79d084
+472	652	7667652129494979	.rcc/qmlcache/appTodo_Main_qml.cpp	e1383a777fdb6ccb
+472	652	7667652129494979	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Main_qml.cpp	e1383a777fdb6ccb
+242	348	7667660426600190	.rcc/qmlcache/appTodo_Task_item_qml.cpp	842b2a8a0aec0d0f
+242	348	7667660426600190	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_item_qml.cpp	842b2a8a0aec0d0f
+479	653	7667652129524892	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Dialogue_qml.cpp.aotstats	f65b406cd2e46899
+246	356	7667660960143779	.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+479	653	7667652129524892	.rcc/qmlcache/appTodo_Dialogue_qml.cpp	f65b406cd2e46899
+479	653	7667652129524892	.rcc/qmlcache/appTodo_Dialogue_qml.cpp.aotstats	f65b406cd2e46899
+479	653	7667652129524892	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Dialogue_qml.cpp	f65b406cd2e46899
+656	6403	7667652129740214	CMakeFiles/appTodo.dir/main.cpp.obj	fc5fca3f90330954
+2487	3061	7667660981564866	appTodo.exe	7c7b7b60628f84b0
+1223	1383	7667651613107340	.rcc/qmlcache/appTodo_ex_qml.cpp	7c11d63c4e79d084
+1223	1383	7667651613107340	.rcc/qmlcache/appTodo_ex_qml.cpp.aotstats	7c11d63c4e79d084
+1223	1383	7667651613107340	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_ex_qml.cpp	7c11d63c4e79d084
+246	356	7667660960143779	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+40	66	7667651429310002	CMakeFiles/clean.additional	baedbe210acaa455
+666	841	7667652129791042	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Todo.cpp.obj	de65e9cae77dba7a
+356	2487	7667660960255507	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.obj	7916537c96d7432d
+675	5977	7667652129791042	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Main_qml.cpp.obj	f46c8868871ce367
+47	90	7667661094309443	.qt/appTodo_qml.txt	f5d3921be6afd7f8
+47	90	7667661094309443	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_qml.txt	f5d3921be6afd7f8
+56	247	7667661095866905	.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+56	247	7667661095866905	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+254	287	7667661096279647	.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+254	287	7667661096279647	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+247	356	7667661096923665	.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+247	356	7667661096923665	.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+247	356	7667661096923665	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+247	356	7667661096923665	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+359	420	7667661097064685	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp.obj	94f3cfee601e4e96
+356	2466	7667661097034761	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.obj	7916537c96d7432d
+2466	3033	7667661118121892	appTodo.exe	7c7b7b60628f84b0
+48	91	7667664117310773	.qt/appTodo_qml.txt	f5d3921be6afd7f8
+48	91	7667664117310773	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_qml.txt	f5d3921be6afd7f8
+57	250	7667664118902731	.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+57	250	7667664118902731	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+257	291	7667664119331298	.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+257	291	7667664119331298	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+250	361	7667664119984439	.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+250	361	7667664119984439	.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+250	361	7667664119984439	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+250	361	7667664119984439	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+365	427	7667664120121213	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp.obj	94f3cfee601e4e96
+361	2474	7667664120086187	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.obj	7916537c96d7432d
+2474	3047	7667664141220594	appTodo.exe	7c7b7b60628f84b0
+49	90	7667669913901594	.qt/appTodo_qml.txt	f5d3921be6afd7f8
+49	90	7667669913901594	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_qml.txt	f5d3921be6afd7f8
+57	244	7667669915427211	.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+57	244	7667669915427211	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+252	285	7667669915862667	.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+252	285	7667669915862667	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+244	363	7667669916575331	.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+244	363	7667669916575331	.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+244	363	7667669916575331	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+244	363	7667669916575331	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+366	429	7667669916716358	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp.obj	94f3cfee601e4e96
+363	2475	7667669916686764	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.obj	7916537c96d7432d
+2475	3048	7667669937808441	appTodo.exe	7c7b7b60628f84b0
+55	97	7667671234653808	.qt/appTodo_qml.txt	f5d3921be6afd7f8
+55	97	7667671234653808	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTodo_qml.txt	f5d3921be6afd7f8
+63	256	7667671236249630	.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+63	256	7667671236249630	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTodo_build.cmake	c8c1536767a2a566
+264	298	7667671236682054	.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+264	298	7667671236682054	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp	d8a70345af3d2f46
+256	366	7667671237316521	.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+256	366	7667671237316521	.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+256	366	7667671237316521	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp	35105af8a3b39bfc
+256	366	7667671237316521	F:/World Domination/Todo/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.aotstats	35105af8a3b39bfc
+370	432	7667671237456673	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTodo_raw_qml_0.cpp.obj	94f3cfee601e4e96
+366	2484	7667671237416772	CMakeFiles/appTodo.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTodo_Task_list_qml.cpp.obj	7916537c96d7432d
+2484	3058	7667671258596522	appTodo.exe	7c7b7b60628f84b0
