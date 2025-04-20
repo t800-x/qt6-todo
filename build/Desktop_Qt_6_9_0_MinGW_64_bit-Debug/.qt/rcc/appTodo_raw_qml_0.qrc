@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Todo/">
-    <file alias="Main.qml">F:/World Domination/Todo/Main.qml</file>
-    <file alias="Dialogue.qml">F:/World Domination/Todo/Dialogue.qml</file>
-    <file alias="Task_list.qml">F:/World Domination/Todo/Task_list.qml</file>
-    <file alias="Task_item.qml">F:/World Domination/Todo/Task_item.qml</file>
-  </qresource>
-</RCC>
-

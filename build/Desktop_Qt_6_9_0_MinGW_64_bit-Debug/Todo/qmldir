@@ -1,8 +1,0 @@
-module Todo
-typeinfo appTodo.qmltypes
-prefer :/qt/qml/Todo/
-Main 1.0 Main.qml
-Dialogue 1.0 Dialogue.qml
-Task_list 1.0 Task_list.qml
-Task_item 1.0 Task_item.qml
-

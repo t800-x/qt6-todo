@@ -41,4 +41,6 @@ Item {
         }
 
     }
+    width:  task_container.width
+    height: task_container.height
 }
